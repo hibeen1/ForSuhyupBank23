@@ -68,7 +68,7 @@ IT지원부 개발지원팀 황인빈 입니다.
     
     설치법 검색하셔서 설치를 해주세요.
     이 링크 보셔도 되고 직접 찾아보셔도 됩니다.
-    https://wikidocs.net/44
+    [](https://wikidocs.net/44)
     ```
 
 - Selenium
@@ -89,7 +89,7 @@ IT지원부 개발지원팀 황인빈 입니다.
     
     인터넷에 "Selenium 설치" 라고 검색하시면 설치법 많이 나오니 참고해서 설치해주세요.
 
-    https://chancoding.tistory.com/136
+    [](https://chancoding.tistory.com/136)
     ```
 
 - Chrome Driver
@@ -97,7 +97,7 @@ IT지원부 개발지원팀 황인빈 입니다.
     ```
     Selenium의 연장선으로 우리는 크롬 웹 브라우저를 자동화시킬건데, 그러기 위해서는 드라이버를 다운받아야 합니다.
 
-    https://chancoding.tistory.com/136
+    [](https://chancoding.tistory.com/136)
 
     위 링크에 드라이브 파일 설정하는 법도 같이 나와있으니 참고하셔서 그대로 따라하시면 됩니다.
     ```
