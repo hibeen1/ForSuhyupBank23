@@ -74,7 +74,7 @@ while True: # 무한루프 돌건데, 어차피 다음 목록 없으면 프로�
     sleep(7)
     # driver.switch_to.window(main[1])
     # driver.close()
-    driver.switch_to.window(main[2])
+    driver.switch_to.window(main[1])
     driver.find_element(By.XPATH, '/html/body/div/div/section/div[3]').click()
     print("6666")
     sleep(1)
